@@ -1,0 +1,3 @@
+".\Objects\evote.obj" 
+TO ".\Objects\evote" 
+PRINT(".\Listings\evote.m51") RAMSIZE(256) 
